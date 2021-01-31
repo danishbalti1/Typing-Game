@@ -41,8 +41,8 @@ const seconds = document.querySelector('#seconds');
      'outstanding',
      'enourmous',
      'unexpeted','unrealistic','undefine','how','joke', 'comon', 'respect','legendary'
-     ,'cocktail','developer','stubborn','genlear
-     erate','hero',
+     ,'cocktail','developer','stubborn',
+     ,'generate','hero',
      'villain','nutrition','revolver','master','defination'
  ];
  //initilization game
