@@ -9,7 +9,7 @@ const levels={
 };
 //To change levels
 
-const currentLevel = levels.medium;
+const currentLevel = levels.easy;
 let time = currentLevel;
 let score=0;
 let isPlaying;
@@ -41,7 +41,8 @@ const seconds = document.querySelector('#seconds');
      'outstanding',
      'enourmous',
      'unexpeted','unrealistic','undefine','how','joke', 'comon', 'respect','legendary'
-     ,'cocktail','developer','stubborn','generate','hero',
+     ,'cocktail','developer','stubborn','genlear
+     erate','hero',
      'villain','nutrition','revolver','master','defination'
  ];
  //initilization game
